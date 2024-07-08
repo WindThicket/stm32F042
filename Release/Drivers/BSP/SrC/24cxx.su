@@ -1,0 +1,6 @@
+../Drivers/BSP/SrC/24cxx.c:6:19:EP24C_IsDeviceReady	8	static
+../Drivers/BSP/SrC/24cxx.c:11:19:EP24C_WriteOneByte	32	static
+../Drivers/BSP/SrC/24cxx.c:15:19:EP24C_ReadOneByte	24	static
+../Drivers/BSP/SrC/24cxx.c:19:19:EP24C_ReadBytes	32	static
+../Drivers/BSP/SrC/24cxx.c:26:19:EP24C_WriteInOnePage	32	static
+../Drivers/BSP/SrC/24cxx.c:33:19:EP24C_WriteLongData	24	static
